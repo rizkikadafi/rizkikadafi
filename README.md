@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rizkikadafi
-- 🏙 Student at Jakarta State University
+- 🏙 Student at State University of Jakarta (Universitas Negeri Jakarta)
 - 👀 I’m interested in programming and everything about technology
 - 💻 I’m currently learning Python programming language
 

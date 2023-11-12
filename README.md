@@ -5,6 +5,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkikadafi&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--START_SECTION:waka-->
+
+```txt
+Dart         18 hrs 26 mins  ███████████████▒░░░░░░░░░   61.52 %
+Python       7 hrs 3 mins    ██████░░░░░░░░░░░░░░░░░░░   23.55 %
+Vala         1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JSON         41 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+PHP          37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 %
+```
+
 <!--END_SECTION:waka-->
 
 <!---

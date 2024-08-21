@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   24 mins         █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

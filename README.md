@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript                 1 hr 12 mins    ████████░░░░░░░░░░░░░░░░░   32.11 %
-HTML                       54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.99 %
-Nginx configuration file   32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
-norg                       25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 %
-Markdown                   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+JavaScript                 1 hr 12 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+HTML                       54 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.75 %
+norg                       37 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Nginx configuration file   32 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.70 %
+Markdown                   16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.91 %
 ```
 
 <!--END_SECTION:waka-->

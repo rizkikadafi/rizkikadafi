@@ -7,8 +7,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            17 hrs 53 mins  ████████████████▒░░░░░░░░   65.75 %
-TypeScript        7 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.84 %
+Kotlin            17 hrs 53 mins  ████████████████▒░░░░░░░░   65.70 %
+TypeScript        7 hrs 18 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.82 %
 Rust              40 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 Java Properties   16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
 Markdown          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %

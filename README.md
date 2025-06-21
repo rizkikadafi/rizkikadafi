@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C                   2 hrs 20 mins   ████████████▒░░░░░░░░░░░░   49.25 %
-Makefile            59 mins         █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Desktop file        25 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
-Kconfig             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
-Debian Sourcelist   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+C                   2 hrs 16 mins   █████████████▒░░░░░░░░░░░   52.79 %
+Makefile            59 mins         █████▓░░░░░░░░░░░░░░░░░░░   23.03 %
+Desktop file        25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Debian Sourcelist   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Kconfig             13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
 ```
 
 <!--END_SECTION:waka-->

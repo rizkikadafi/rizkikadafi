@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-XML           2 hrs 37 mins   ██████████████████████▒░░   88.98 %
-Python        17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-CSS           1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-HTML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-Image (png)   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
